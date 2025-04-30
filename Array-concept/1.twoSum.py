@@ -1,10 +1,11 @@
 """
 Easy category
 leetcode link: https://leetcode.com/problems/two-sum/description/
+Notes: use hash map to instantly check for difference value, map will add index of last occurrence of a num, don’t use same element twice
 """
 
 
-#Solutin
+#Solution
 
 #the function will return the array of indexes where the sum of values will be equal to the target
 def getTwoSum(nums:list[int], target:int)->list[int]:
