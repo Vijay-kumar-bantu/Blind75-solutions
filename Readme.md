@@ -8,4 +8,4 @@ All problems were written in python, feel free to use your comfortable language.
 
 ## 🚀 About Me
 
-This is Vijay Kumar Bantu and I'm a full stack developer.
+This is Vijay Kumar Bantu working as a full stack developer.
