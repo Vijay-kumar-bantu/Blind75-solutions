@@ -21,6 +21,9 @@ def getTwoSum(nums:list[int], target:int)->list[int]:
             #if not existed adding the difference of index to the map
             differenceMap[target - nums[i]] = i
 
+def testFunction():
+    print("Hello world")
+
 #Example
 nums = [2,7,11,15]
 target = 9
